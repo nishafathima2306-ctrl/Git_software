@@ -1,6 +1,6 @@
 {
-    "name": "project1",
-    "short_name": "project1",
+    "name": "gateway",
+    "short_name": "gateway",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
